@@ -24,7 +24,7 @@
 <a href="https://instagram.com/pv_nation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pv_nation" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/paramveer7267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paramveer7267" height="30" width="40" /></a>
 </p>
-<img src="https://myreadme.vercel.app/api/embed/paramveer7267?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/paramveer7267?panels=toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paramveer7267&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <h3 align="left">Languages and Tools:</h3>
