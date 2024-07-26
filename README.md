@@ -7,13 +7,13 @@
 
 - 👯 I’m currently working on **Newwire**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-self-pi-37.vercel.app/#portfolio](https://personal-portfolio-self-pi-37.vercel.app/#portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://personal-portfolio-self-pi-37.vercel.app/#portfolio)
 
 - 💬 Ask me about **development, oops and js**
 
 - 📫 How to reach me **paramveer7267@gmail.com**
 
-- 📄 Know about my experiences [https://personal-portfolio-self-pi-37.vercel.app/#resume](resume)
+- 📄 Know about my experiences [Resume](https://personal-portfolio-self-pi-37.vercel.app/#resume)
 
 - ⚡ Fun fact **I excel in fast-paced accomplishment because I enjoy procrastination😁.**
 
