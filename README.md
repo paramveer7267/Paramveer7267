@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-self-pi-37.vercel.app/#portfolio](https://personal-portfolio-self-pi-37.vercel.app/#portfolio)
 
-- 💬 Ask me about **mern stack, oops and js**
+- 💬 Ask me about **development, oops and js**
 
 - 📫 How to reach me **paramveer7267@gmail.com**
 
 - 📄 Know about my experiences [https://personal-portfolio-self-pi-37.vercel.app/#resume](https://personal-portfolio-self-pi-37.vercel.app/#resume)
 
-- ⚡ Fun fact **I excel in fast-paced accomplishment because I enjoy procrastination**
+- ⚡ Fun fact **I excel in fast-paced accomplishment because I enjoy procrastination😁.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
