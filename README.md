@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **paramveer7267@gmail.com**
 
-- 📄 Know about my experiences [https://personal-portfolio-self-pi-37.vercel.app/#resume](https://personal-portfolio-self-pi-37.vercel.app/#resume)
+- 📄 Know about my experiences [https://personal-portfolio-self-pi-37.vercel.app/#resume](resume)
 
 - ⚡ Fun fact **I excel in fast-paced accomplishment because I enjoy procrastination😁.**
 
