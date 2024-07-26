@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://personal-portfolio-self-pi-37.vercel.app/#resume](https://personal-portfolio-self-pi-37.vercel.app/#resume)
 
-- ⚡ Fun fact **I think I'm cool LOL😁**
+- ⚡ Fun fact **I excel in fast-paced accomplishment because I enjoy procrastination**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
