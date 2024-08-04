@@ -7,7 +7,7 @@
 
 - 👯 I’m currently working on **Newwire**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://personal-portfolio-self-pi-37.vercel.app/#portfolio)
+- 👨‍💻 All of my Details are available at [Portfolio](https://personal-portfolio-self-pi-37.vercel.app/#portfolio)
 
 - 💬 Ask me about **development, oops and js**
 
