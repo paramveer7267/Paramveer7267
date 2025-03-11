@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **paramveer7267@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mmzZzeev6J7q_DwydCEUS8ObhUcy2SuW/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iOU7wbYKUfFeDT9JTFFmuAxAuk5V3biV/view?usp=sharing)
 
 - ⚡ Fun fact **I excel in fast-paced accomplishment because I enjoy procrastination😁.**
 
