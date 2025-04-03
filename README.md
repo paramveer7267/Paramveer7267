@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Next.js**
 
-- 👯 I’m currently working on **Ecommerce App**
+- 👯 I’m currently working on **Video Streaming App**
 
 - 👨‍💻 All of my Details are available at [Portfolio](https://personal-portfolio-self-pi-37.vercel.app/#portfolio)
 
