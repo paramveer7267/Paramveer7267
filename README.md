@@ -3,7 +3,7 @@
 
 - 🔭 I have worked on [Octalearning - Language Course](https://octalearning.com/)
 
-- 🌱 I’m currently learning **React and Next.js**
+- 🌱 I’m currently learning **React and React Native**
 
 - 👯 I’m currently working on **FAMFLIX - Video Streaming App**
 
