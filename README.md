@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Paramveer Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I have worked on [Octalearning - Language Course](https://octalearning.com/)
+- 🔭 I have worked on [FAMFLIX - Video Streaming App](https://famflix.onrender.com/)
 
 - 🌱 I’m currently learning **React and React Native**
 
-- 👯 I’m currently working on **FAMFLIX - Video Streaming App**
+- 👯 I’m currently working on **limeLight App**
 
 - 👨‍💻 All of my Details are available at [Portfolio](https://personal-portfolio-self-pi-37.vercel.app/#portfolio)
 
