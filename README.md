@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and React Native**
 
-- 👯 I’m currently working on **limeLight App**
+- 👯 I’m currently working on **issueResolver**
 
 - 👨‍💻 All of my Details are available at [Portfolio](https://personal-portfolio-self-pi-37.vercel.app/#portfolio)
 
