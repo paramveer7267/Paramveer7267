@@ -3,9 +3,9 @@
 
 - 🔭 I have worked on [FAMFLIX - Video Streaming App](https://famflix.onrender.com/)
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **React and Advance Concepts**
 
-- 👯 I’m currently working on **Trackify - Smart Ticket Management System**
+- 👯 I’m currently working on **Metics - Cosmetic Ecommerce Shop**
 
 - 👨‍💻 All of my Details are available at [Portfolio](https://personal-portfolio-self-pi-37.vercel.app/#portfolio)
 
