@@ -7,7 +7,7 @@
 
 - 👯 I’m currently working on **Metics - Cosmetic Ecommerce Shop**
 
-- 👨‍💻 All of my Details are available at [Portfolio]((https://react-portfolio-beta-lilac.vercel.app/)#portfolio)
+- 👨‍💻 All of my Details are available at [Portfolio](https://react-portfolio-beta-lilac.vercel.app/#portfolio)
 
 - 💬 Ask me about **development, oops and js**
 
