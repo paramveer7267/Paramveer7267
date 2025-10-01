@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gDAMERa_LguRk1Mnx7tUfV92Wh0NzrWj/view?usp=drive_link)
 
-- ⚡ Fun fact **I excel in fast-paced accomplishment because I enjoy procrastination😁.**
+- 🔦 Fun fact **I excel in fast-paced accomplishment because I enjoy procrastination😁.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
