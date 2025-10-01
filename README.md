@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👯 I’m currently working on **Qureify AI**
+- 👯 I’m currently working at **Qureify AI**
 
 - 👨‍💻 All of my Details are available at [Portfolio](https://react-portfolio-beta-lilac.vercel.app/#portfolio)
 
