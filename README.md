@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paramveer Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+- ⚡ Building an Agency to digitalized the Technical Industry with AI [Afeska](https://afeska.com)
+  
 - 🔭 I have worked on [FAMFLIX - Video Streaming App](https://famflix-1ssd.onrender.com/login?email=test@example.com&password=Test@123)
 
 - 🌱 I’m currently learning **AI/ML**
