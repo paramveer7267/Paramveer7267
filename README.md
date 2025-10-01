@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Paramveer Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I have worked on [FAMFLIX - Video Streaming App](https://famflix.onrender.com/)
+- 🔭 I have worked on [FAMFLIX - Video Streaming App](https://famflix-1ssd.onrender.com/login?email=test@example.com&password=Test@123)
 
-- 🌱 I’m currently learning **React and Advance Concepts**
+- 🌱 I’m currently learning **AI/ML**
 
-- 👯 I’m currently working on **Metics - Cosmetic Ecommerce Shop**
+- 👯 I’m currently working on **Qureify AI**
 
 - 👨‍💻 All of my Details are available at [Portfolio](https://react-portfolio-beta-lilac.vercel.app/#portfolio)
 
